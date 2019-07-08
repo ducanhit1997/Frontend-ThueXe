@@ -1,0 +1,23 @@
+.book_content{
+    position: absolute !important;
+    top:15%;
+    right:10%;
+    width:35%;
+    font-size: 16px;
+    font-weight: 450px;
+    color:#ffffff;
+    background-color:#fafafa;
+    opacity: 0.85;
+    border-radius:30px;
+    padding: 2.5rem 2.5rem;
+}
+@media only screen and (max-width: 600px) {
+    .book_content {
+        position: relative !important;
+        width: 100%;
+        padding: 20px 20px;
+        left: 0;
+        border-radius: 0;
+        background-color: none;
+    }
+}

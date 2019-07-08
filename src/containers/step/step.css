@@ -1,0 +1,18 @@
+.step_content{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    padding: 0 20%;
+    background-color:#fafafa !important;
+}
+@media only screen and (max-width: 600px) {
+    .step_content{
+        margin-top: 50px;
+        height: 100%;
+        padding:10px 10px;
+        margin: 0;
+        
+
+    }
+}
