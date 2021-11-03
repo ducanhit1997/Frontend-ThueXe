@@ -55,7 +55,7 @@
     "slick-carousel": "^1.8.1",
     "styled-components": "^4.0.3",
     "styled-theme": "^0.3.3",
-    "validator": "^10.8.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "set port=5003 & react-scripts start",
