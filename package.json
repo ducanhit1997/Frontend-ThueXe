@@ -17,7 +17,7 @@
     "jwt-decode": "^2.2.0",
     "material-ui": "^0.20.2",
     "moment": "^2.22.2",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "paypal-checkout": "^4.0.239",
     "prop-types": "^15.6.2",
     "rc-slider": "^8.6.3",
